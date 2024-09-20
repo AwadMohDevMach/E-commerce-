@@ -1,0 +1,44 @@
+requirements 
+    - react basic
+    - readux toolkit
+    - redux persist
+    - redux selectors
+    - AXIOS
+    - react router dom
+    - react hook form 
+    - ZOD validation
+upgrade your shill to next level
+    - App skeleton
+    - optimization 
+    - design patterns
+    - dynamic components
+    - encapsulated vs container and view
+    - guards and protected routes
+typescript for better experince 
+    - typescript with react
+    - typescript with functions, objects, arrays, and union..ect
+    - inaterfaces and type 
+    - suporting redux 
+    - generics 
+    - alias path 
+    - narrowing 
+    - tips and trics 
+features :
+    - app navigations
+    - filteration 
+    - wishlist 
+    - shopping cart 
+    - maximum add-to-cart
+    - authentication 
+    - authorization 
+    - profile page 
+    - place order 
+    - skeletons and animations 
+Bounce :
+    - dark mode 
+    - intersection observer API
+    - multi-language support 
+    - toaster notifications 
+---------------
+vit = don't supprot svg
+    - to solve this problem => npm i vite-plugin-svgr

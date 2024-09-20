@@ -1,0 +1,6 @@
+.cartItem{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #d4d4d4;
+}
+

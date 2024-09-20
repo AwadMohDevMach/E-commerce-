@@ -1,0 +1,20 @@
+.maximumNotice{
+    font-size: 12px;
+    margin-top: 7px;
+}
+.wishlistBtn{
+    position: absolute;
+    right: 5px;
+    top: 2px;
+    background-color: #fff;
+    width: 28px;
+    height: 28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.wishlistBtn:hover{
+    background-color: #f2f2f2;
+}

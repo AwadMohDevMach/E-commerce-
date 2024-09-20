@@ -1,0 +1,13 @@
+.active{
+    text-decoration: underline;
+}
+.error-page{
+    text-align: center;
+    padding: 15%;
+}
+.error-page h1{
+    font-size: 130px;
+}
+.error-page p{
+    font-size: 30px;
+}
